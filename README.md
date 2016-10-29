@@ -1,2 +1,2 @@
 # HelloWorld
-Test Repo to learn Git. :)
+Test Repo to learn Git :)
